@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anon
 - 👀 I’m interested in back end developement
 - 🌱 I’m currently learning Java in school
-- 📫 email me at pickleyoda69@gmail.com
+- 📫 Email me at pickleyoda69@gmail.com
 <!--- 💞️ I’m looking to collaborate on ...
 ---> 
 
